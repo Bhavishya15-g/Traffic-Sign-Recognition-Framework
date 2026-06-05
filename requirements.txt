@@ -1,9 +1,8 @@
 streamlit
+tensorflow-cpu==2.16.1
 numpy==1.26.4
 pandas==2.2.2
-tensorflow-cpu==2.16.1
 opencv-python-headless
+Pillow
 scikit-learn
 matplotlib
-seaborn
-Pillow
