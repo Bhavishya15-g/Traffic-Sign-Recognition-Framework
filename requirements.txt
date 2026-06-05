@@ -4,4 +4,5 @@ numpy==1.26.4
 pandas==2.2.2
 pillow
 h5py
+opencv-python-headless
 scikit-learn
