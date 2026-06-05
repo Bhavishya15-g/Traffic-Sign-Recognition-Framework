@@ -25,7 +25,7 @@ st.set_page_config(
 def load_model():
 
     model = tf.keras.models.load_model(
-        "models/traffic_sign_cnn.h5"
+        "traffic_sign_cnn.h5"
     )
 
     return model
