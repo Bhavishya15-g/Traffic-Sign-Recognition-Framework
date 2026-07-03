@@ -1,0 +1,7 @@
+Condition,Accuracy,Accuracy Drop
+Blur,0.9895,0.006
+Noise,0.8064,0.1891
+Brightness,0.9923,0.0031
+Contrast,0.9373,0.0581
+Occlusion,0.101,0.8944
+Compression,0.9854,0.01
